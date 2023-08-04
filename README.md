@@ -1,5 +1,5 @@
 # Personal-Portfolio-Web
-### Reference Video and Credits: [YouTube Video] (https://youtu.be/0YFrGy_mzjY)
+### Reference Video and Credits: [YouTube Video](https://youtu.be/0YFrGy_mzjY)
 
 ## Overview
 
@@ -7,11 +7,15 @@ This is a project for a personal portfolio website. It serves as an online resum
 
 ## Table of Contents
 
-**1. Installation
-2. Usage
-3. Features
-4. License
-5. Contact** 
+**1. Installation**
+
+**2. Usage**
+
+**3. Features**
+
+**4. License**
+
+**5. Contact** 
    
 ## Installation
 
@@ -20,15 +24,19 @@ This is a basic web application and does not require any special tools to run. Y
 ## Features
 
 **About Me Section:** A brief introduction about myself.
+
 **Services Section:** Shows services offered.
+
 **Portfolio Section:** Showcase my projects with links and descriptions.
+
 **Contact Section:** Contact form for potential employers or recruiters to reach out.
+
 **Responsive Design:** The website is optimized for various screen sizes.
 
 
 ## Contact
 
-**Sejal Patel - seju.patel@icloud.com - [LinkedIn] (https://www.linkedin.com/in/sejal-patel-80a011259/)**
+**Sejal Patel - seju.patel@icloud.com - [LinkedIn](https://www.linkedin.com/in/sejal-patel-80a011259/)**
 
 Project Link: https://github.com/your_username/personal-portfolio
 
