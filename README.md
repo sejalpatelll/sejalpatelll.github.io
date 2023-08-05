@@ -38,7 +38,7 @@ This is a basic web application and does not require any special tools to run. Y
 
 **Sejal Patel - seju.patel@icloud.com - [LinkedIn](https://www.linkedin.com/in/sejal-patel-80a011259/)**
 
-Project Link: https://github.com/your_username/personal-portfolio
+Project Link: https://github.com/sejalpatelll/Personal-Portfolio-Web
 
 Please feel free to report any issues or suggest new features. Your feedback is always welcome!
 
