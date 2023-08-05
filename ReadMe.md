@@ -13,9 +13,7 @@ This is a project for a personal portfolio website. It serves as an online resum
 
 **3. Features**
 
-**4. License**
-
-**5. Contact** 
+**4. Contact** 
    
 ## Installation
 
