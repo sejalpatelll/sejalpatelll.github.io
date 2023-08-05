@@ -1,4 +1,59 @@
-To link the google sheets to website (https://www.youtube.com/watch?v=0YFrGy_mzjY):
+# Personal-Portfolio-Web
+### Reference Video and Credits: [YouTube Video](https://youtu.be/0YFrGy_mzjY)
+
+## Overview
+
+This is a project for a personal portfolio website. It serves as an online resume showcasing your skills, projects, experience, and more to potential employers or clients. This personal portfolio website was created using HTML, CSS, JavaScript, and Bootstrap.
+
+## Table of Contents
+
+**1. Installation**
+
+**2. Usage**
+
+**3. Features**
+
+**4. License**
+
+**5. Contact** 
+   
+## Installation
+
+This is a basic web application and does not require any special tools to run. You don't need to install any packages or dependencies. For reference and help, I followed the Youtube link at the top of the ReadMe file as guidance during this project.
+
+## Features
+
+**About Me Section:** A brief introduction about myself.
+
+**Services Section:** Shows services offered.
+
+**Portfolio Section:** Showcase my projects with links and descriptions.
+
+**Contact Section:** Contact form for potential employers or recruiters to reach out.
+
+**Responsive Design:** The website is optimized for various screen sizes.
+
+
+## Contact
+
+**Sejal Patel - seju.patel@icloud.com - [LinkedIn](https://www.linkedin.com/in/sejal-patel-80a011259/)**
+
+Project Link: https://github.com/sejalpatelll/Personal-Portfolio-Web
+
+Please feel free to report any issues or suggest new features. Your feedback is always welcome!
+
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________________
+Notes on how to link the google sheets to website (https://youtu.be/0YFrGy_mzjY):
 1. Create a google sheets with a proper title
 2. Go to Extensions --> Apps Script
 3. Title it the same thing as your google sheets
