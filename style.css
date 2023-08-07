@@ -295,6 +295,10 @@ nav ul li a:hover::after{
   margin-right: 15px;
   font-size: 25px;
 }
+.hide {
+  display: none;
+}
+
 .social-icons{    /* designing the social media icons lines 269 - 283 */
   margin-top: 30px;
 }
