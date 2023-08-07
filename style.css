@@ -218,6 +218,11 @@ nav ul li a:hover::after{
   display: block;
   transition: transform 0.5s; /* gets the image to hover apart of line 229 */
 }
+.info{
+  color:#9c9b9b;
+  font-size: 15px;
+  padding-top: 15px;
+}
 .layer{     /* this CSS gets the words underneathe the "My Work" to be on top of image*/
   width: 100;
   height: 0%;
