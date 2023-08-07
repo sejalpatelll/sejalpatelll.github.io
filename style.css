@@ -277,7 +277,7 @@ nav ul li a:hover::after{
   transition: 0.5s;
 }
 .btn:hover{
-  background: #28a6e9;
+  background-color: #5181ea;
 } 
 
 /* ------------------- Contact Section of Website ------------------- */
@@ -291,15 +291,34 @@ nav ul li a:hover::after{
   margin-top: 30px;
 }
 .contact-left p i{ /* designing the icons on the email and phone */
-  color: #28a6e9;
+  color: #ffffff;
   margin-right: 15px;
   font-size: 25px;
 }
+/* want to make changes to email me and call me buttons color and padding */
+
+.contact-button {
+  background-color: #28a6e9; 
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: 0.3s; /* smooth hover effect */
+}
+.contact-button:hover {
+  background-color: #5181ea; 
+}
+
 .hide {
   display: none;
 }
-
-.social-icons{    /* designing the social media icons lines 269 - 283 */
+.social-icons{    /* designing the social media icons */
   margin-top: 30px;
 }
 .social-icons a{
@@ -318,6 +337,10 @@ nav ul li a:hover::after{
 .btn.btn2{        /* designing the Download Resume button */
   display: inline-block;
   background: #28a6e9;
+  border: none;
+}
+.btn.btn2:hover{
+  background-color: #5181ea;
 }
 .contact-right form{  /* designing the contact form */
   width: 100%;
